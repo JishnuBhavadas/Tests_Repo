@@ -1,0 +1,1 @@
+This it to check the Rebase technique in Git

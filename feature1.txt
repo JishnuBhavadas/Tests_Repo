@@ -1,0 +1,2 @@
+This is the new feature that need to be merged.
+Git bash is a powerful tool.

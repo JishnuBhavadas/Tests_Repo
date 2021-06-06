@@ -1,0 +1,2 @@
+This is the line from feature branch
+We use git for many purposes.

@@ -1,1 +1,2 @@
-This it to check the Rebase technique in Git
+This it to check the Rebase technique in Git.
+Added one more line to create a diversion in the git log history so as to  verify git rebase conflict techniques

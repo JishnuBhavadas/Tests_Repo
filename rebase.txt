@@ -1,5 +1,5 @@
 This is the text document to check the rebase technique.
 Name of the branch : Rebase-Conflict
-Created Date : 10-06-2021
-Created Time : 04-31PM
+Created Date : 13-06-2021
+Created Time : 12-31PM
 

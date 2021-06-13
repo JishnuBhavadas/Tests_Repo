@@ -1,5 +1,5 @@
 This it to check the Rebase technique in Git.
-Name : Jishnu
-Age : 26
+Name : Jishnu Bhavadas
+Age : 25
 DOB : 03-03-1995
-Place : Hyderabad
+Place : Shoranur

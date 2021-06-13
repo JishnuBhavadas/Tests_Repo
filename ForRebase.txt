@@ -1,2 +1,5 @@
 This it to check the Rebase technique in Git.
-Added one more line to create a diversion in the git log history so as to  verify git rebase conflict techniques
+Name : Jishnu
+Age : 26
+DOB : 03-03-1995
+Place : Hyderabad

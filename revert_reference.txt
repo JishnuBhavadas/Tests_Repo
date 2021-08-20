@@ -1,0 +1,19 @@
+For revrting immediate recent commit , below command can be used
+git revert <SHA>
+This will automatically create a revert commnit and will add into history.
+If we want to revert without automatic-commit we can use below command :
+git revert -n <SHA>
+
+NOTE : Git Revert is to revert a specific commit as mentioned in the command. It will revert the changes made in that particular commit only. It will not revert any other commits.
+
+If we want to revert multiple recent commits , this is one way :
+git revert -n A
+git revert -n B
+git revert -n C
+git revert -n D
+where A,B,C,D are recent commits which we want to revert.
+After the above commands , all reverted files will be in staged area.
+Then , create a new commit as :
+git commit -m "the commmit message for all of the reverted files in A , B , C & D commits"
+
+

@@ -2,3 +2,4 @@ This is the line from feature branch
 We use git for many purposes.
 Git bash is a powerful tool.
 This line is added to check the Git revert feature
+Common line for both files in a single commmit
